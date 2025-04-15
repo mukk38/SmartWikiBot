@@ -34,6 +34,7 @@ A chatbot that answers questions in a specific domain (e.g., science, history) u
    
 ## API Docs
 - OpenAPI documentation: http://localhost:8000/docs
+![Capture](https://github.com/user-attachments/assets/fa275472-81eb-4bab-b780-a4d5fc64ae66)
 
 ## License
 MIT
